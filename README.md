@@ -1,5 +1,5 @@
 # LIPI-Database
-cite the paper
+If you have used this database, cite the paper
 
 Pearlsy P V, Deepa Sankar, "Handwriting-Based Text Line Segmentation from Malayalam Documents",  Appl. Sci. 2023, 13(17), 9712; https://doi.org/10.3390/app13179712 
 
